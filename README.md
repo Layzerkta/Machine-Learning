@@ -24,7 +24,7 @@ Nous avons évalué plusieurs algorithmes de machine learning, notamment :
 ### Comparaison des performances
 Le tableau ci-dessous résume les performances des modèles pour différentes approches et cibles.
 
-![Tableau récapitulatif](Capture.png)
+![Tableau récapitulatif](Machine-Learning/Capture.png)
 
 - Les meilleurs résultats ont été obtenus avec **XGBoost**, notamment pour prédire le prix au m² des biens immobiliers.
 - Le modèle **Random Forest** a également montré de bonnes performances dans plusieurs scénarios.
